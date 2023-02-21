@@ -12,3 +12,6 @@ Predicting Equity Prices for multiple asset classes. This type of model works fo
 
 
 # Development is still under Process    
+
+
+#start with readme
