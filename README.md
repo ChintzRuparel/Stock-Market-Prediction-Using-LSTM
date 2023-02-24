@@ -57,5 +57,3 @@ A traditional RNN has a single hidden state that is passed through time, which c
 
 # Development is still under Process    
 
-
-#start with readme
